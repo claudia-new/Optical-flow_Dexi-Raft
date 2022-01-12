@@ -1,0 +1,7 @@
+nohup: ignoring input
+Parameter Count: 5257536
+Training with 22232 image pairs
+/home/zexin/anaconda3/envs/raft/lib/python3.7/site-packages/torch/optim/lr_scheduler.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  "https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate", UserWarning)
+[   100,  0.0000140]     0.6628,     0.8367,     0.8793,     3.9332, 
+[   200,  0.0000180]     0.6638,     0.8386,     0.8808,     4.6187, 
