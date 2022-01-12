@@ -1,0 +1,3 @@
+python evaluate.py --model=checkpoints/raft-things.pth --dataset=chairs --mixed_precision
+python evaluate.py --model=checkpoints/raft-things.pth --dataset=sintel --mixed_precision
+python evaluate.py --model=checkpoints/raft-things.pth --dataset=kitti --mixed_precision
